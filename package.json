@@ -1,0 +1,27 @@
+{
+  "name": "ludopatia_final",
+  "version": "1.0.0",
+  "description": "tryp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo7234/ludopatia_final.git"
+  },
+  "keywords": [
+    "ludopatia"
+  ],
+  "author": "Camilo Rubio and Nicolas Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo7234/ludopatia_final/issues"
+  },
+  "homepage": "https://github.com/camilo7234/ludopatia_final#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "pg": "^8.13.0"
+  }
+}
